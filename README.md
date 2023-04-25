@@ -3,11 +3,6 @@ Hi 👋 My name is Lakshinov Dolan
 
 Frontend Developer
 ------------------
-Hi 👋 My name is Lakshinov Dolan
-================================
-
-Frontend Developer
-------------------
 
 I am studying at Bauman Moscow State Technical University, simultaneously creating web applications!
 
